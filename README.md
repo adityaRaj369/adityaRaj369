@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityaRaj369
-- 👀 I’m interested in competitive coding,New technologies
+- 👀 I’m interested in competitive coding,New technologies and developtment projects.
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on java projects
 - 📫 You can reach me at aditya8789681673@gmail.com
