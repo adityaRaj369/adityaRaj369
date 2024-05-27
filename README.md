@@ -30,7 +30,7 @@
 **Technologies I Work With 💻**
 
 - Frontend: HTML, CSS, JavaScript (React, Angular)
-- Backend: Node.js, Express, Django
+- Backend: Node.js, Express, Spring(java)
 - Database: MongoDB, MySQL
 - Version Control: Git, GitHub
 - SpringBoot
