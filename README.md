@@ -22,9 +22,10 @@
 
 **What I Do 🚀**
 
-- 💻 Full Stack Development
+- 💻 Full Stack Development(MERN,SPRING BOOT)
 - 🌐 Web Development
 - 🧠 Data Structures and Algorithms
+- 💻 System Design
 
 **Technologies I Work With 💻**
 
