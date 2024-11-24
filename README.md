@@ -35,6 +35,7 @@
 - Version Control: Git, GitHub
 - SpringBoot
 - MERN
+- NLP
 
 **Achievements 🏆**
 
