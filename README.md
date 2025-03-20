@@ -35,7 +35,7 @@
 - Version Control: Git, GitHub
 - SpringBoot
 - MERN
-- NLP
+- IOT(Internet Of Things)
 
 **Achievements 🏆**
 
